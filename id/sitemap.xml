@@ -30,16 +30,6 @@
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/slides/ubuntu/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aryulianto.com/ubi.github.io/en/slides/ubuntu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aryulianto.com/ubi.github.io/slides/ubuntu/"
-                />
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/categories/</loc>
     <xhtml:link
@@ -52,6 +42,8 @@
                 hreflang="id"
                 href="https://www.aryulianto.com/ubi.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/sponsors/imtek-id/</loc>
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/sponsors/nipa_kr/</loc>
   </url><url>
