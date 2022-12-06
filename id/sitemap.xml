@@ -43,6 +43,18 @@
                 href="https://www.aryulianto.com/ubi.github.io/categories/"
                 />
   </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/bylaws/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/bylaws/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/bylaws/"
+                />
+  </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/sponsors/imtek-id/</loc>
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/sponsors/nipa_kr/</loc>
@@ -61,6 +73,18 @@
                 href="https://www.aryulianto.com/ubi.github.io/tags/"
                 />
   </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/about/"
+                />
+  </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/projects/</loc>
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/download/</loc>
@@ -77,33 +101,9 @@
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/translate/</loc>
   </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/bylaws/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aryulianto.com/ubi.github.io/en/bylaws/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aryulianto.com/ubi.github.io/bylaws/"
-                />
-  </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/chat/</loc>
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/try/</loc>
-  </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aryulianto.com/ubi.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aryulianto.com/ubi.github.io/about/"
-                />
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/sponsors/cloudmate_co_ltd/</loc>
   </url>
