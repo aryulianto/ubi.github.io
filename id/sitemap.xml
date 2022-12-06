@@ -2,40 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aryulianto.com/ubi.github.io/id/categories/</loc>
+    <loc>https://www.aryulianto.com/ubi.github.io/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.aryulianto.com/ubi.github.io/categories/"
+                href="https://www.aryulianto.com/ubi.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://www.aryulianto.com/ubi.github.io/id/categories/"
-                />
-  </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/id/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://www.aryulianto.com/ubi.github.io/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://www.aryulianto.com/ubi.github.io/id/"
-                />
   </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/id/tags/</loc>
+    <loc>https://www.aryulianto.com/ubi.github.io/slides/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.aryulianto.com/ubi.github.io/tags/"
+                href="https://www.aryulianto.com/ubi.github.io/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://www.aryulianto.com/ubi.github.io/id/tags/"
+                href="https://www.aryulianto.com/ubi.github.io/slides/"
                 />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/slides/ubuntu/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/slides/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/slides/ubuntu/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/sponsors/nipa_kr/</loc>
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/projects/</loc>
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/download/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/download/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/translate/</loc>
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/bylaws/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/bylaws/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/bylaws/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/chat/</loc>
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/try/</loc>
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/about/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/sponsors/cloudmate_co_ltd/</loc>
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/sponsors/</loc>
   </url>
 </urlset>
