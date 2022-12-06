@@ -37,6 +37,17 @@ Detail Sponsor  TBD  </description>
     </item>
     
     <item>
+      <title>Unduh Ubuntu</title>
+      <link>https://www.aryulianto.com/ubi.github.io/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aryulianto.com/ubi.github.io/download/</guid>
+      <description>Version and system requirements Ubuntu 22.04 LTS Ubuntu 22.04 LTS, the latest LTS(Long term support) version provides 5 years of maintenance and security updates for free. In most cases, LTS version is recommended for stable use.
+See Ubuntu 22.04 LTS release notes (Indonesian translation) See Ubuntu 22.04 LTS release notes
+Ubuntu 21.10 If you want to try out latest features, Try out Ubuntu 21.10, the latest version. It provides 9 months of maintenance and security updates for free.</description>
+    </item>
+    
+    <item>
       <title>스터디/프로젝트</title>
       <link>https://www.aryulianto.com/ubi.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,18 +56,6 @@ Detail Sponsor  TBD  </description>
       <description>그룹 스터디 주기적으로 우분투 또는 우분투 관련 오픈소스 기술에 대해 주제를 선정하여 그룹 스터디를 진행하고 있습니다. 스터디에 필요한 비용이나 공간, 장비 등은 되도록이면 커뮤니티 차원에서 지원하거나 별도 후원을 받아 진행하고 있습니다.
 컨테이너, 리눅스 데스크탑 앱 개발, 서버 구축 등 다양한 주제로 스터디를 진행하고 있습니다.
 스터디 주제는 회원이 제안 하거나, 운영진 측에서 기획하여 선정하며, 스터디 구성원 모집 시 포럼이나 소셜 미디어 채널 등을 통해 모집합니다. 그룹 스터디 산출물은 위키 또는 GitHub 등에 공유되고 있습니다.</description>
-    </item>
-    
-    <item>
-      <title>우분투 Unduh</title>
-      <link>https://www.aryulianto.com/ubi.github.io/download/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aryulianto.com/ubi.github.io/download/</guid>
-      <description>버전 및 요구사양 우분투 22.04 LTS 가장 최근 출시된 LTS(장기 지원) 버전인 우분투 22.04 LTS는 5년간 유지보수 및 보안 업데이트가 무료로 제공됩니다. 대부분의 경우, 안정적인 사용을 위해 LTS 버전 사용이 권장됩니다.
-우분투 22.04 LTS 릴리즈 노트 보기(한국어 번역) 우분투 22.04 LTS 릴리즈 노트 보기
-우분투 21.10 새로운 기능을 먼저 사용해 보고 싶다면, 가장 최신 버전인 우분투 21.10를 사용해 보세요. 출시 후 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.
-우분투 21.10 릴리즈 노트 보기</description>
     </item>
     
     <item>
