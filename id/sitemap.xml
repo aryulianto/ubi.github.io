@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aryulianto.com/ubi.github.io/ko/categories/</loc>
+    <loc>https://www.aryulianto.com/ubi.github.io/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -10,23 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.aryulianto.com/ubi.github.io/ko/categories/"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/id/categories/"
                 />
   </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/ko/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.aryulianto.com/ubi.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.aryulianto.com/ubi.github.io/ko/tags/"
-                />
-  </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/ko/</loc>
+    <loc>https://www.aryulianto.com/ubi.github.io/id/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,8 +22,20 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.aryulianto.com/ubi.github.io/ko/"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/id/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/id/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/id/tags/"
                 />
   </url>
 </urlset>
