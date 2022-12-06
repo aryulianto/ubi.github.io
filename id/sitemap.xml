@@ -55,6 +55,8 @@
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/sponsors/nipa_kr/</loc>
   </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/sponsors/</loc>
+  </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,7 +114,5 @@
                 />
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/sponsors/cloudmate_co_ltd/</loc>
-  </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/sponsors/</loc>
   </url>
 </urlset>
