@@ -77,6 +77,18 @@
                 href="https://www.aryulianto.com/ubi.github.io/en/download/"
                 />
   </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/projects/"
+                />
+  </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/en/bylaws/</loc>
     <xhtml:link
                 rel="alternate"
@@ -111,6 +123,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.aryulianto.com/ubi.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/en/translate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/translate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/translate/"
                 />
   </url>
 </urlset>
