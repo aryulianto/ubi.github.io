@@ -65,6 +65,18 @@
                 href="https://www.aryulianto.com/ubi.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/en/chat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/chat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/chat/"
+                />
+  </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/en/download/</loc>
     <xhtml:link
                 rel="alternate"

@@ -53,6 +53,18 @@
                 href="https://www.aryulianto.com/ubi.github.io/categories/"
                 />
   </url><url>
+    <loc>https://www.aryulianto.com/ubi.github.io/chat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.aryulianto.com/ubi.github.io/en/chat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://www.aryulianto.com/ubi.github.io/chat/"
+                />
+  </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/bylaws/</loc>
     <xhtml:link
                 rel="alternate"
@@ -140,8 +152,6 @@
                 hreflang="id"
                 href="https://www.aryulianto.com/ubi.github.io/download/"
                 />
-  </url><url>
-    <loc>https://www.aryulianto.com/ubi.github.io/chat/</loc>
   </url><url>
     <loc>https://www.aryulianto.com/ubi.github.io/try/</loc>
   </url>
