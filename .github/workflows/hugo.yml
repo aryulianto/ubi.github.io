@@ -75,7 +75,7 @@ jobs:
           ref: gh-pages    
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: peaceiris/actions-hugo@v2.6.0
+        uses: actions/deploy-pages@v2
 
 # Deployment job
 #  deploy:
